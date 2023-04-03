@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @great-aryan
+- 👋 Namaste 🙏 I’m @great-aryan
+- 🙎🏽‍♂️ I’m a Homo sapien. I live on Earth with my Mom & Dad in India.
+- 📚 I’m a Student. I love to learn, daily. Be it an algo, ds, song, software or a word.
+- 🎨 I’m an Artist. I like to produce music. My forte is talking to frequencies while coding.
+- 🛠  I’m a Creator. I live to innovate & create things the world hasn't seen before.
 - 👀 I’m interested in App Development
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Block Head Project
 - 📫 Contact me : @instagram - great_aryan
+
 
 <!---
 great-aryan/great-aryan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
