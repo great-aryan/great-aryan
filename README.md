@@ -1,6 +1,6 @@
 ### 👋 Namaste 🙏 I’m @great-aryan
 
-![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=great-aryan&theme=dark&show_icons=true
+![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=great-aryan&theme=dark&show_icons=true)
 
 - 🙎🏽‍♂️ I’m a Homo sapien.
 - 📚 I’m a Student. I love to learn, daily. Be it an algo, ds, song, software or a word.
