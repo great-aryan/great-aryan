@@ -7,8 +7,10 @@
 - 🎨 I’m an Artist. I like to produce music. My forte is talking to frequencies while coding.
 - 🛠  I’m a Creator. I live to innovate & create things the world hasn't seen before.
 - 👀 I’m interested in App Development
-- 📫 Contact me : @instagram - great_aryan
+- 📫 Contact me :@instagram - great_aryan
 
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=great-aryan&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <!---
 great-aryan/great-aryan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
