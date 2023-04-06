@@ -1,4 +1,4 @@
-### 👋 Namaste 🙏 I’m @great-aryan
+### 👋 Namaste 🙏 I'm Aryan
 
 ![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=great-aryan&theme=dark&show_icons=true)
 
