@@ -1,13 +1,13 @@
 ## 👋 Namaste 🙏 I'm Aryan
 
-![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=great-aryan&theme=dark&show_icons=true&hide=contribs,issues))
-
 - 🙎🏽‍♂️ I’m a Homo sapien. Trying to create something that even time can't destroy.
 - 📚 I’m a Student. I love to learn daily. Be it an Algo, DS, Song, Software or a Word.
 - 🎨 I’m an Artist. I like to produce music. My forte is talking to frequencies while coding.
 - 🛠  I’m a Creator. I live to innovate & create things the world hasn't seen before.
 - 👀 I’m interested in App Development
 - 📫 Contact me : @Instagram - @great_aryan
+
+![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=great-aryan&theme=dark&show_icons=true&hide=contribs,issues))
 
 ### :fire: My Stats :
 
