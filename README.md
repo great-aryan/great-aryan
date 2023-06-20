@@ -7,7 +7,7 @@
 - 👀 I’m interested in App Development
 - 📫 Contact me : @Instagram - @great_aryan
 
-![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=great-aryan&theme=dark&show_icons=true&hide=contribs,issues))
+![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=great-aryan&theme=dark))
 
 ### :fire: My Stats :
 
